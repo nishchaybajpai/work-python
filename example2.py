@@ -1,0 +1,11 @@
+from turtle import *
+s = getscreen()
+t = Turtle()
+t.fd(100)
+t.rt(90)
+t.fd(100)
+t.rt(90)
+t.fd(100)
+t.rt(90)
+t.fd(100)
+mainloop()
